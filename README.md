@@ -25,7 +25,6 @@
 ![Snake animation](https://github.com/NicollasLuz/NicollasLuz/blod/output/github-contribuition-grid-snake.svg)
 
 
-/* From Uiverse.io by Smit-Prajapati */ 
 <div class="card">
   <div class="top-section">
     <div class="border"></div>
