@@ -66,9 +66,7 @@
       </div>
     </div>
   </div>
-</div>
-
-<style>
+  <style>
   /* From Uiverse.io by Smit-Prajapati */ 
 .card {
   width: 230px;
@@ -204,3 +202,6 @@
   border-right: 1px solid rgba(255, 255, 255, 0.126);
 }
 </style>
+
+</div>
+
