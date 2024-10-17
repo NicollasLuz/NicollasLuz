@@ -7,8 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicollasLuz&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-##
-I'm learning these languages ​​at the moment: 
+## I'm learning these languages ​​at the moment: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
