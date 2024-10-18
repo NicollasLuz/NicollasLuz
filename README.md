@@ -1,6 +1,6 @@
 ## 👋 Hello, my name is Nicollas! And welcome to my profile
 
-<div style="display: flex; gap: 20px;"> <!-- ajuste o gap conforme necessário -->
+<div style="display: flex; gap: 2px;"> <!-- ajuste o gap conforme necessário -->
   <a href="https://github.com/anuraghazra">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=NicollasLuz&show_icons=true&rank_icon=github&theme=tokyonight" />
   </a>
