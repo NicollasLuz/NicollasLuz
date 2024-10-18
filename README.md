@@ -1,11 +1,14 @@
 ## 👋 Hello, my name is Nicollas! And welcome to my profile
 
-<a href="https://github.com/anuraghazra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NicollasLuz&show_icons=true&rank_icon=github&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicollasLuz&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+<div style="display: flex; gap: 20px;"> <!-- ajuste o gap conforme necessário -->
+  <a href="https://github.com/anuraghazra">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=NicollasLuz&show_icons=true&rank_icon=github&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicollasLuz&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
+</div>
+
 
 ## I'm learning these languages ​​at the moment: 
 <div style="display: inline_block"><br>
