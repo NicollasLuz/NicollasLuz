@@ -89,8 +89,8 @@ const nicollas = {
 
 <div align="center">
 
-<a href="https://spotibadge.vercel.app/redirect-top-artist/d0571e98b093477587095acbeefd3285?time_range=short_term">
-  <img src="https://spotibadge.vercel.app/api/top-artist/d0571e98b093477587095acbeefd3285.svg?time_range=short_term&background_type=blur_dark&show_status=true" alt="Top Artist" />
+<a href="https://spotibadge.vercel.app/redirect-top-artist/.eJwVjkFPgzAYQP9Lz5rQ0tKv3khlI6BoF6cbl2XQlrUwohDn0Pjfrbd3eC95P2hCdyhVEmfydezN7jNdtvMUq7IQ_O3L2RzjtOjgXbrbzfpcKZkz8BaqRt5fF-BXI_UpV4fDZuqevuvHJdn3tLj4aD7PF0oenstyzeiOa5Gp4aNb1ACaZONLnZyI52r0-YoOtXcdukE6nFSuNwFbF1hHjGMjoIlETDlnwCPBjm1jjNUxAfbvzcE72oYTpk2sIaYtIyIJBbPUYNCtxRr9_gFlB0U7.KTETrbyVkbpCF3454OdDFbsTaGk?time_range=short_term">
+  <img src="https://spotibadge.vercel.app/api/top-artist/.eJwVjkFPgzAYQP9Lz5rQ0tKv3khlI6BoF6cbl2XQlrUwohDn0Pjfrbd3eC95P2hCdyhVEmfydezN7jNdtvMUq7IQ_O3L2RzjtOjgXbrbzfpcKZkz8BaqRt5fF-BXI_UpV4fDZuqevuvHJdn3tLj4aD7PF0oenstyzeiOa5Gp4aNb1ACaZONLnZyI52r0-YoOtXcdukE6nFSuNwFbF1hHjGMjoIlETDlnwCPBjm1jjNUxAfbvzcE72oYTpk2sIaYtIyIJBbPUYNCtxRr9_gFlB0U7.KTETrbyVkbpCF3454OdDFbsTaGk.svg?time_range=short_term&background_type=blur_dark&show_status=true" alt="Top Artist" />
 </a>
 
 </div>
