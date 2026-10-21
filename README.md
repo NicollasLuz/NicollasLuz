@@ -130,6 +130,10 @@
 <a href="mailto:nicollauteodoro@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="[SEU_LINK_DO_SPOTIFY](https://open.spotify.com/user/nicollasgoias?si=0803a92422284cbb)" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
 
 </div>
 
