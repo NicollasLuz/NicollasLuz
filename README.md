@@ -6,14 +6,14 @@
 
 <br>
 
-<a href="#-english"><img src="https://img.shields.io/badge/🇺🇸%20English-A6E22E?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
-<a href="#-português"><img src="https://img.shields.io/badge/🇧🇷%20Português-F92672?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
+<a href="#-english"><img src="https://img.shields.io/badge/English-A6E22E?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
+<a href="#-português"><img src="https://img.shields.io/badge/Portugues-F92672?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
 
 </div>
 
 ---
 
-## 🇺🇸 English
+## 🌎 English
 
 ### 🧑‍💻 About Me
 
@@ -28,7 +28,7 @@ const nicollas = {
 ```
 
 <details>
-<summary>🇧🇷 <b>Ler em Português</b></summary>
+<summary>🗣️ <b>Ler em Português</b></summary>
 
 ### 🧑‍💻 Sobre Mim
 
@@ -80,16 +80,6 @@ const nicollas = {
 <br>
 
 <img height="180" src="https://streak-stats.demolab.com?user=NicollasLuz&theme=monokai&hide_border=true&background=272822&ring=A6E22E&fire=F92672&currStreakLabel=A6E22E" />
-
-</div>
-
-<br>
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NicollasLuz&bg_color=272822&color=A6E22E&line=F92672&point=f8f8f2&area=true&hide_border=true" />
 
 </div>
 
