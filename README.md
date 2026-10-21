@@ -6,43 +6,36 @@
 
 <br>
 
-<a href="#-english"><img src="https://img.shields.io/badge/English-A6E22E?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
-<a href="#-português"><img src="https://img.shields.io/badge/Portugues-F92672?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
+<a href="#english"><img src="https://img.shields.io/badge/English-A6E22E?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
+<a href="#portugues"><img src="https://img.shields.io/badge/Portugues-F92672?style=for-the-badge&logoColor=272822&labelColor=272822" /></a>
 
 </div>
 
 ---
 
+<a id="english"></a>
+
 ## 🌎 English
 
 ### 🧑‍💻 About Me
 
-```typescript
-const nicollas = {
-  role: "Full-Stack Developer",
-  location: "Brazil 🇧🇷",
-  currentlyLearning: ["React", "Java", "C"],
-  focus: "Building clean, functional and scalable applications",
-  funFact: "I turn coffee ☕ into code 💻"
-};
-```
+- 💼 **Role:** Full-Stack Developer
+- 📍 **Location:** Brazil
+- 📚 **Currently learning:** React, Java, C
+- 🎯 **Focus:** Building clean, functional and scalable applications
+- ☕ **Fun fact:** I turn coffee into code 💻
 
-<details>
-<summary>🗣️ <b>Ler em Português</b></summary>
+<a id="portugues"></a>
+
+## 🗣️ Português
 
 ### 🧑‍💻 Sobre Mim
 
-```typescript
-const nicollas = {
-  cargo: "Desenvolvedor Full-Stack",
-  localizacao: "Brasil 🇧🇷",
-  aprendendoAgora: ["React", "Java", "C"],
-  foco: "Construir aplicações limpas, funcionais e escaláveis",
-  curiosidade: "Transformo café ☕ em código 💻"
-};
-```
-
-</details>
+- 💼 **Cargo:** Desenvolvedor Full-Stack
+- 📍 **Localização:** Brasil
+- 📚 **Aprendendo agora:** React, Java, C
+- 🎯 **Foco:** Construir aplicações limpas, funcionais e escaláveis
+- ☕ **Curiosidade:** Transformo café em código 💻
 
 <br>
 
